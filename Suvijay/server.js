@@ -4,7 +4,7 @@ const app=express();
 
 app.get("/",function(req,resp){
 
-    resp.send("Client chutiya hai");
+    resp.send("Summer of 69");
 });
 
 app.get("/home",function(req,res){
